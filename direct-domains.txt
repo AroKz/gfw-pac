@@ -366,3 +366,7 @@ zhihu.com
 zhimg.com
 zhubajie.com
 zongheng.com
+githubusercontent.com
+sinaimg.cn
+icloud.com
+apple.cn
